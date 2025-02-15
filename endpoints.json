@@ -1,0 +1,12 @@
+{
+    "endpoint_name": "modelo-previsao",
+    "url": "https://seu-endpoint.azurewebsites.net/score",
+    "method": "POST",
+    "headers": {
+        "Content-Type": "application/json",
+        "Authorization": "Bearer SUA_CHAVE"
+    },
+    "example_request": {
+        "input_data": [[5.1, 3.5, 1.4, 0.2]]
+    }
+}
