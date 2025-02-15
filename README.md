@@ -34,8 +34,8 @@ Este repositório contém um modelo de previsão treinado e implantado no **Azur
 3. Passe os dados corretos no formato JSON e analise as previsões.
 
 ## 📂 Arquivos no Repositório
-- **README.md** → Passo a passo da implementação.
-- **endpoints.json** → Arquivo JSON contendo os detalhes dos pontos de extremidade.
+- **[README.md](./README.md)** → Passo a passo da implementação.
+- **[endpoints.json](./endpoints.json)** → Arquivo JSON contendo os detalhes dos pontos de extremidade.
 
 ## 📌 Como Consumir o Modelo (Exemplo de Requisição)
 ```python
